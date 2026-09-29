@@ -1,0 +1,15 @@
+*.iml
+.gradle/
+build/
+local.properties
+.idea/
+.DS_Store
+*.ap_
+*.apk
+*.aab
+# ...except the beta delivery folder (copy the tested APK here to share/commit it)
+!apks/*.apk
+# Release signing secrets — never commit
+keystore.properties
+*.jks
+*.keystore

@@ -1,0 +1,8 @@
+{
+  "editor.formatOnSave": true,
+  "editor.tabSize": 4,
+  "kotlin.languageServer.enabled": true,
+  "files.associations": {
+    "*.kts": "kotlin"
+  }
+}
